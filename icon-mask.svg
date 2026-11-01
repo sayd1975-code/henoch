@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0f172a"/>
+  <g transform="translate(0,10) scale(.86) translate(36,20)">
+    <g stroke="#fbbf24" stroke-width="16" stroke-linecap="round">
+      <line x1="256" y1="70" x2="256" y2="100"/>
+      <line x1="150" y1="98" x2="168" y2="124"/>
+      <line x1="362" y1="98" x2="344" y2="124"/>
+    </g>
+    <path d="M256 88l10 22 24 4-17 17 4 24-21-11-21 11 4-24-17-17 24-4z" fill="#fbbf24"/>
+    <path d="M256 200c-34-26-84-34-128-32v216c44-2 94 6 128 32 34-26 84-34 128-32V168c-44-2-94 6-128 32z" fill="#d97706"/>
+    <path d="M256 200c-34-26-84-34-128-32v216c44-2 94 6 128 32z" fill="#fbbf24"/>
+    <path d="M256 200v216" stroke="#0f172a" stroke-width="10"/>
+    <g stroke="#0f172a" stroke-width="10" stroke-linecap="round" opacity=".55">
+      <line x1="164" y1="224" x2="228" y2="228"/>
+      <line x1="164" y1="262" x2="228" y2="266"/>
+      <line x1="164" y1="300" x2="212" y2="303"/>
+      <line x1="284" y1="228" x2="348" y2="224"/>
+      <line x1="284" y1="266" x2="348" y2="262"/>
+      <line x1="284" y1="303" x2="332" y2="300"/>
+    </g>
+  </g>
+</svg>
